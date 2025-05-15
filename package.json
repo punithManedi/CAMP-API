@@ -1,0 +1,21 @@
+{
+  "name": "widgetendpoint",
+  "version": "1.0.0",
+  "description": "Node.js proxy for Emerson API using Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": "22.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.12"
+  }
+}
